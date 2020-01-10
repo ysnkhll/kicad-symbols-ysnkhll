@@ -1,0 +1,93 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 93LCxxB
+D Serial EEPROM, 93 Series, 2.5V, DIP-8/SOIC-8
+K EEPROM memory Microwire
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001749K.pdf
+$ENDCMP
+#
+$CMP BU33UA3
+D FULL CMOS LDO Regulator 3.3V
+K 3.3V Regulator LDO
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/buxxua3wnvx-e.pdf
+$ENDCMP
+#
+$CMP BlueNRG-2
+D BlueNRG-2 QFN32
+K BLE ST QFN32
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/78/ea/0d/a6/e0/68/4e/d2/DM00399302/files/DM00399302.pdf/jcr:content/translations/en.DM00399302.pdf
+$ENDCMP
+#
+$CMP EP2K
+D Power Splitter/Combiner 5 - 20 GHz, 50 ohm
+K RF Splitter Combiner
+F https://www.minicircuits.com/pdfs/EP2K+.pdf
+$ENDCMP
+#
+$CMP HMC712A
+D GaAs MMIC Voltage-Variable Attenuator, 5 - 26.5 GHz
+K RF MMIC Attenuator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/hmc712A.pdf
+$ENDCMP
+#
+$CMP LTC1522
+D LTC1522 DC/DC Converter 2.7V to 5V
+K Micropower, Regulated 5V Charge Pump DC/DC Converter
+F http://www.analog.com/media/en/technical-documentation/data-sheets/1522f.pdf?domain=www.linear.com
+$ENDCMP
+#
+$CMP MAX8511EXK35+T
+D 3.5V LDO MAX8511 120mA SC-70-5
+K 3.5V LDO
+F https://datasheets.maximintegrated.com/en/ds/MAX8510-MAX8512.pdf
+$ENDCMP
+#
+$CMP MP34DT05-A
+D MEMS Microphone
+K Microphone MEMS
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/c7/90/d3/f6/b7/e7/40/c8/DM00415595/files/DM00415595.pdf/jcr:content/translations/en.DM00415595.pdf
+$ENDCMP
+#
+$CMP SR1
+D 4 pin Smart Reset™
+K ST Reset Supervisor
+F https://www.st.com/resource/en/datasheet/sr1.pdf
+$ENDCMP
+#
+$CMP STBC08
+D Li-Ion Battery Charger IC  with thermal regulator
+K 800mA Li-Ion Battery Charger
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/32/cd/28/84/1b/53/4e/7d/CD00132950.pdf/files/CD00132950.pdf/jcr:content/translations/en.CD00132950.pdf
+$ENDCMP
+#
+$CMP STM1061
+D Low Power Voltage Detector
+K Low Power Voltage Detector
+F https://www.st.com/resource/en/datasheet/stm1061.pdf
+$ENDCMP
+#
+$CMP STM32F446RE
+D STM ARM Cortex-M4 core with DSP and FPU, 512 Kbytes Flash, 180 MHz CPU, ART Accelerator, Dual QSPI, LQFP64
+K ARM Cortex M4 MCU STM
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/65/cb/75/50/53/d6/48/24/DM00141306.pdf/files/DM00141306.pdf/jcr:content/translations/en.DM00141306.pdf
+$ENDCMP
+#
+$CMP T1M_20
+D Generic shielded connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP TLV9052
+D 5-MHz, 15-V/µs High Slew-Rate, RRIO Op Amp TI
+K DUAL OP AMP
+F http://www.ti.com/lit/ds/symlink/tlv9052.pdf
+$ENDCMP
+#
+$CMP W25Q80BV
+D 8M-Bit Serial Flash Memory
+K SPI Flash Memory
+F https://cdn-shop.adafruit.com/datasheets/W25Q80BV.pdf
+$ENDCMP
+#
+#End Doc Library
