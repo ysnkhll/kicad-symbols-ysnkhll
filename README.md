@@ -1,2 +1,2 @@
 # kicad-symbols-ysnkhll
-My personal KiCad schematic symbols library.
+My personal KiCad schematic symbol library.
