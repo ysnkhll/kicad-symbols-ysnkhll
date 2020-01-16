@@ -36,6 +36,12 @@ K Micropower, Regulated 5V Charge Pump DC/DC Converter
 F http://www.analog.com/media/en/technical-documentation/data-sheets/1522f.pdf?domain=www.linear.com
 $ENDCMP
 #
+$CMP MAX6818
+D CMOS Switch Debouncer
+K Switch Debouncer
+F https://datasheets.maximintegrated.com/en/ds/1896.pdf
+$ENDCMP
+#
 $CMP MAX8511EXK35+T
 D 3.5V LDO MAX8511 120mA SC-70-5
 K 3.5V LDO
