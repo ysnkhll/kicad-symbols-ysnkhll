@@ -30,6 +30,12 @@ K RF MMIC Attenuator
 F https://www.analog.com/media/en/technical-documentation/data-sheets/hmc712A.pdf
 $ENDCMP
 #
+$CMP LFB182G45CGFD436
+D Ultra-small, low-profiled, lightweight chip filters. 2450.00MHz, 50Ω
+K Band Pass Filter 
+F https://www.murata.com/en-global/products/productdata/8799747473438/LFB182G45CGFD436.pdf?1497238230000
+$ENDCMP
+#
 $CMP LTC1522
 D LTC1522 DC/DC Converter 2.7V to 5V
 K Micropower, Regulated 5V Charge Pump DC/DC Converter
